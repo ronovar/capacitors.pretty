@@ -12,6 +12,6 @@
   (model capacitors.3dshapes/FW-10.00x5.08.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393700 0.393700 0.393700))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90.000000 0 0))
   )
 )
